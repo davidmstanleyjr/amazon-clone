@@ -24,6 +24,8 @@ export default function Home({ products }) {
 	);
 }
 
+//This tells Next.js this is no longer a static page and tells it to pull from the api.
+//Loads the products as soon as the page loads
 export async function getServerSideProps(context) {
 	const session = await getSession(context);
 	const products = await fetch("https://fakestoreapi.com/products").then(
