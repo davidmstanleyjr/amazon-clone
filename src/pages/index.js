@@ -9,6 +9,12 @@ export default function Home() {
 			</Head>
 
 			<Header />
+			<main className="max-w-screen-2xl nx-auto">
+				{/* Banner */}
+				<Banner />
+
+				{/* Product Feed */}
+			</main>
 		</div>
 	);
 }
