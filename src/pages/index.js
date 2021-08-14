@@ -8,7 +8,6 @@ export default function Home() {
 				<title>Amazon Clone</title>
 			</Head>
 
-			<h1>YO</h1>
 			<Header />
 		</div>
 	);
