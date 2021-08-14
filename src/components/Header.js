@@ -1,7 +1,16 @@
+import Image from "next/image";
+
 function Header() {
 	return (
 		<header>
-			<h1>I am a header</h1>
+			{/* Top Nav */}
+			<div>
+				<div>
+					<Image />
+				</div>
+			</div>
+			{/* Bottom Nav */}
+			<div></div>
 		</header>
 	);
 }
