@@ -8,7 +8,7 @@ function Banner() {
 			<Carousel
 				// allows it to scroll by itself
 				autoPlay
-				//when it get to the 3rd carousel, it loops back around
+				//when it gets to the 3rd carousel, it loops back around
 				infiniteLoop
 				showStatus={false}
 				showIndicators={false}
