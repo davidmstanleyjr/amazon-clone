@@ -18,7 +18,7 @@ function Checkout() {
 		// Get Stripe.js instance
 		const stripe = await stripePromise;
 
-		// Call your backend to create the Checkout Session
+		// Call the backend to create the Checkout Session
 		const checkoutSession = await await axios.post(
 			"/api/create-checkout-session",
 			{
