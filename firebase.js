@@ -8,5 +8,13 @@ const firebaseConfig = {
 	storageBucket: "clone-454d7.appspot.com",
 	messagingSenderId: "1074375789223",
 	appId: "1:1074375789223:web:3c0174e48dbf6fc6dbe982",
-	measurementId: "G-NTM8FJPN3Z",
+	// measurementId: "G-NTM8FJPN3Z",
 };
+
+const app = !firebase.apps.length
+	? firebase.initializeApp(firebaseConfig)
+	: firebase.app();
+
+const db = app.firestore();
+
+export default db;
