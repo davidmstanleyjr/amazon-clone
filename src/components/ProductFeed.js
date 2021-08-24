@@ -20,7 +20,6 @@ function ProductFeed({ products }) {
 
 			<img
 				className="md:col-span-full"
-				// src="https://links.papareact.com/dyz"
 				src="https://res.cloudinary.com/ddet8to42/image/upload/v1629837939/1110572_smb_gw_desktop_1500x300_lavolio_1x_uk._CB484123630__qqzsfx.jpg"
 				alt=""
 			/>

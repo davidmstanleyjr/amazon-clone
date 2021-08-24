@@ -57,7 +57,6 @@ function CheckoutProduct({
 					<div className="flex items-center space-x-2">
 						<img
 							className="w-12"
-							// src="https://links.papareact.com/fdw"
 							src="https://res.cloudinary.com/ddet8to42/image/upload/v1629837593/Prime-tag-_qy7d9w.png"
 							alt=""
 						/>

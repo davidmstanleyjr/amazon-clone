@@ -43,10 +43,12 @@ The last problem was Next-Auth. I wanted to use google to authenticate the site 
 
 ![Screenshot 1](images/snip1.PNG)
 ![Screenshot 2](images/payment1.PNG)
-![Screenshot 1](images/payment2.PNG)
-![Screenshot 2](images/orders.PNG)![Screenshot 1](images/firebase.PNG)
-![Screenshot 2](images/stripe1.PNG)![Screenshot 1](images/stripe2.PNG)
-![Screenshot 2](images/success.PNG)
+![Screenshot 3](images/payment2.PNG)
+![Screenshot 4](images/orders.PNG)
+![Screenshot 5](images/stripe1.PNG)
+![Screenshot 6](images/success.PNG)
+![Screenshot 7](images/firebase.PNG)
+![Screenshot 8](images/stripe2.PNG)
 
 # Live page
 
@@ -54,4 +56,4 @@ Here is a link to the deployed site https://davids-ecommerce-clone.vercel.app/
 
 # Quick note
 
-When you're checking out, feel free to use your real debit/credit card. It will show a successful payment but it won't take money from your account. This is because my Stripe account is in test mode and won't take your money. If you're not comfortable using your actual card, Stripe has a demo card number that they allow for testing purposes. Its 4242 4242 4242 4242. You can use that if you like and still successfully checkout.
+When you're checking out, feel free to use your real debit/credit card. It will show a successful payment but it won't take money from your account. This is because my Stripe account is in test mode and won't take your money. If you're not comfortable using your actual card, Stripe has a demo card number that they allow for testing purposes. It's 4242 4242 4242 4242. You can use that if you like and still successfully checkout.
