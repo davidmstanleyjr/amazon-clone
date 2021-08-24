@@ -42,7 +42,8 @@ function Checkout() {
 				{/* Left */}
 				<div className="flex-grow m-5 shadow-sm">
 					<Image
-						src="https://links.papareact.com/ikj"
+						// src="https://links.papareact.com/ikj"
+						src="https://res.cloudinary.com/ddet8to42/image/upload/v1629838010/Prime-day-banner_zbbf0k.png"
 						width={1020}
 						height={250}
 						objectFit="contain"

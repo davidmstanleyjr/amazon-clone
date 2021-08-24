@@ -18,13 +18,25 @@ function Banner() {
 			>
 				{/* Divs represent each carousel on the page */}
 				<div>
-					<img loading="lazy" src="https://links.papareact.com/gi1" />
+					{/* <img loading="lazy" src="https://links.papareact.com/gi1" /> */}
+					<img
+						loading="lazy"
+						src="https://res.cloudinary.com/ddet8to42/image/upload/v1629837300/0504-AMZN-GNBC-GatewayHero-1500x600_v5._CB669739807__l0lfjp.jpg"
+					/>
 				</div>
 				<div>
-					<img loading="lazy" src="https://links.papareact.com/6ff" />
+					{/* <img loading="lazy" src="https://links.papareact.com/6ff" /> */}
+					<img
+						loading="lazy"
+						src="https://res.cloudinary.com/ddet8to42/image/upload/v1629837387/UGRR_S1_GWBleedingHero_ENG_COVIDUPDATE_XSite_1500X600_PV_en-GB._CB669781769__gdgxea.jpg"
+					/>
 				</div>
 				<div>
-					<img loading="lazy" src="https://links.papareact.com/7ma" />
+					{/* <img loading="lazy" src="https://links.papareact.com/7ma" /> */}
+					<img
+						loading="lazy"
+						src="https://res.cloudinary.com/ddet8to42/image/upload/v1629837500/UK-EN_030821_SpringSitewide_ACQ_GW_Hero_D_1500x600_CV69._CB656397523__hfor2g.jpg"
+					/>
 				</div>
 			</Carousel>
 		</div>

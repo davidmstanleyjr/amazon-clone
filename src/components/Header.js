@@ -21,6 +21,7 @@ function Header() {
 					<Image
 						onClick={() => router.push("/")}
 						src="https://links.papareact.com/f90"
+						src="https://res.cloudinary.com/ddet8to42/image/upload/v1629837695/amazon_PNG11_eywopp.png"
 						width={150}
 						height={40}
 						objectFit="contain"
