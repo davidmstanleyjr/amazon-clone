@@ -12,7 +12,7 @@ import { signIn, signOut, useSession } from "next-auth/client";
 function Header() {
 	const items = useSelector(selectItems);
 	const router = useRouter();
-	const [session] = useSession(;
+	const [session] = useSession();
 
 	return (
 		<header className="sticky top-0 z-50">
