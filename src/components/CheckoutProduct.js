@@ -57,7 +57,7 @@ function CheckoutProduct({
 					<div className="flex items-center space-x-2">
 						<img
 							className="w-12"
-							src="https://res.cloudinary.com/ddet8to42/image/upload/v1629837593/Prime-tag-_qy7d9w.png"
+							src="https://res.cloudinary.com/ddet8to42/image/upload/v1629837593/amazon-clone/Prime-tag-_qy7d9w.png"
 							alt=""
 						/>
 						<p className="text-xs text-gray-500">FREE Next-day Delivery</p>

@@ -61,7 +61,7 @@ function Product({ id, title, price, description, category, image }) {
 				<div className="flex items-center space-x-2 -mt-5">
 					<img
 						className="w-12"
-						src="https://res.cloudinary.com/ddet8to42/image/upload/v1629837874/Prime-tag-_dzt6e3.png"
+						src="https://res.cloudinary.com/ddet8to42/image/upload/v1629837874/amazon-clone/Prime-tag-_dzt6e3.png"
 						alt=""
 					/>
 					<p className="text-xs text-gray-500">FREE Next-day Delivery</p>

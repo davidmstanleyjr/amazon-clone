@@ -20,7 +20,7 @@ function ProductFeed({ products }) {
 
 			<img
 				className="md:col-span-full"
-				src="https://res.cloudinary.com/ddet8to42/image/upload/v1629837939/1110572_smb_gw_desktop_1500x300_lavolio_1x_uk._CB484123630__qqzsfx.jpg"
+				src="https://res.cloudinary.com/ddet8to42/image/upload/v1629837939/amazon-clone/1110572_smb_gw_desktop_1500x300_lavolio_1x_uk._CB484123630__qqzsfx.jpg"
 				alt=""
 			/>
 
